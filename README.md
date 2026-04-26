@@ -5,7 +5,5 @@
 На GitHub - учебные проекты и практикумы с кодом и описанием подходов.
 
 **Ссылки**
-
-- [Резюме (PDF)](https://github.com/ILYUTKICK/ILYUTKICK/raw/main/CV_Ilyutkin.pdf)
 - Telegram: [@ilyutkinn](https://t.me/ilyutkinn)
 - Email: nilutkin05@gmail.com
