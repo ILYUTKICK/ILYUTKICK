@@ -1,0 +1,11 @@
+**Никита Илюткин — Продуктовый аналитик**
+
+Студент 3 курса РАНХиГС (Экономика и наука о данных). Специализируюсь на SQL, Python и A/B-тестировании. Умею переводить задачи заказчика в конкретные метрики, строить дашборды и ad hoc аналитику. Основной стек: SQL, Python (Pandas, NumPy), Excel, Jupyter.
+
+На GitHub — учебные проекты и практикумы с кодом и описанием подходов.
+
+**Ссылки**
+
+- [Резюме (PDF)](https://github.com/ILYUTKICK/ILYUTKICK/raw/main/CV_Ilyutkin.pdf)
+- Telegram: [@ilyutkinn](https://t.me/ilyutkinn)
+- Email: nilutkin05@gmail.com
