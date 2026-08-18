@@ -33,4 +33,4 @@ Worked on AI/LLM components for business and industrial knowledge systems:
 
 ## Contact
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nikita-ilyutkin) · [Telegram](https://t.me/ilyutkinn) · [Email](mailto:nilutkin05@gmail.com)
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/nikita-ilyutkin))· [Telegram](https://t.me/ilyutkinn) · [Email](mailto:nilutkin05@gmail.com)
