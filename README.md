@@ -2,35 +2,23 @@
 
 I build practical AI systems focused on **LLMs, RAG, document intelligence, information retrieval, and knowledge graphs**.
 
-Currently working on context pipelines, document processing, retrieval, and graph-based knowledge representation.
+Interested in building end-to-end AI systems — from data preparation and retrieval to backend integration and evaluation.
 
-## Experience
-
-### Zelvex — AI Platform for Business Knowledge
-
-Worked on AI/LLM components for business and industrial knowledge systems:
-
-- context pipelines for industrial documentation;
-- document processing and chunking;
-- embeddings and information retrieval;
-- graph-based knowledge representation;
-- Python-based AI workflows.
-
-> Source code is private and not publicly available.
-
-## Tech
+## Stack
 
 **AI:** LLMs · RAG · Embeddings · Information Retrieval · Knowledge Graphs · NLP  
-**Backend:** Python · PostgreSQL · REST APIs · Git · pytest  
-**Data:** Pandas · NumPy · SQL · Statistics · Machine Learning
+**Engineering:** Python · PostgreSQL · REST APIs · Git · pytest  
+**Data:** SQL · Pandas · NumPy · Statistics · Machine Learning
 
-## Currently building
+## Focus
 
-- LLM/RAG systems
-- Document intelligence pipelines
-- Graph-based retrieval approaches
-- Practical AI products
+- LLM and RAG systems
+- Document intelligence
+- Information retrieval
+- Knowledge graphs
+- AI automation
+- AI system evaluation
 
-## Contact
+## Links
 
-[LinkedIn](https://www.linkedin.com/in/nikita-ilyutkin)· [Telegram](https://t.me/ilyutkinn) · [Email](mailto:nilutkin05@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nikita-ilyutkin) · [Telegram](https://t.me/ilyutkinn) · [Email](mailto:nilutkin05@gmail.com)
