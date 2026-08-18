@@ -6,9 +6,9 @@ Interested in building end-to-end AI systems — from data preparation and retri
 
 ## Stack
 
-**AI:** LLMs · RAG · Embeddings · Information Retrieval · Knowledge Graphs · NLP  
-**Engineering:** Python · PostgreSQL · REST APIs · Git · pytest  
-**Data:** SQL · Pandas · NumPy · Statistics · Machine Learning
+**AI:** LLMs, RAG, Embeddings, Information Retrieval, Knowledge Graphs, NLP  
+**Engineering:** Python, PostgreSQL, REST APIs, Git, pytest  
+**Data:** SQL, Pandas, NumPy, Statistics, Machine Learning
 
 ## Focus
 
