@@ -12,6 +12,5 @@ I build AI pipelines end-to-end: data processing, retrieval/context, model integ
 ## Links
 
 [LinkedIn](https://www.linkedin.com/in/nikita-ilyutkin) 
-[Telegram](https://t.me/ilyutkinn) 
-[Email](mailto:nilutkin05@gmail.com)
+[Email](mailto:oleg.miller223@gmail.com)
 
